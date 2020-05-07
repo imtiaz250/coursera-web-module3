@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
+
+body{
+	background-color: powderblue;
+}
+h1 {
+    font-size: 1.75em;
+}
+
+section {
+    background-color: #000080;
+    border: 1px solid #000000;
+    margin: 0 0 25px 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: justify;
+    color: white;
+    border-radius: 1.5rem;
+    box-shadow: 0 0 20px black;
+}
+
+section h3 {
+    font-size: 3rem;
+}
+
+section p {
+    padding: 0 6px 4px 6px;
+}
+
+#header-nav{
+	background-color: #000080;
+	margin: -2px -2px 0;
+
+
+}
+
+.navbar-brand a{
+	color: white;
+	font-size: 	3rem;
+	font-family: 'Fredoka One', cursive;
+}
+
+.our-menu{
+	color: #000080;
+	font-family: 'Galada', cursive;
+	font-size: 5rem;
+
+}
+
+#collapsable-nav a{
+ color: white;
+}
+
